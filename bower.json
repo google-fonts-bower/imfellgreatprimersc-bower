@@ -1,0 +1,17 @@
+{
+    "name": "imfellgreatprimersc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Igino Marini"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/imfellgreatprimersc-bower.git"
+    },
+    "description": "IM Fell Great Primer SC font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
